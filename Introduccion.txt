@@ -1,0 +1,91 @@
+\documentclass[conference]{IEEEtran}
+\IEEEoverridecommandlockouts
+% The preceding line is only needed to identify funding in the first footnote. If that is unneeded, please comment it out.
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithmic}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+\begin{document}
+
+\title{Inicio y Evoluci\'on de los Servicios Web en el desarrollo de aplicaciones. \\
+}
+
+\author{\IEEEauthorblockN{Oscar Hern\'andez}
+\IEEEauthorblockA{\textit{System Department} \\
+\textit{EPAM System}\\
+Zapopan, M\'exico \\
+oscar.hdez.s@gmail.com}
+}
+
+\maketitle
+
+\begin{abstract}
+En el desarrollo de aplicaciones ya sea web, m\'oviles o en la nube, siempre se ha buscado la manera de hacer eficiente algunos procesos que toman un significante tiempo en ser realizados como podr\'ian ser: 
+
+\begin{itemize}
+\item CRUD (Por sus siglas en ingles Create, Read, Update, Delete) en la base de datos.
+\item Efectuar ``n'' cantidad de operaciones para conseguir una respuesta.
+\item Correr un trabajo (Job) en el servidor para generar un reporte.
+\end{itemize}
+
+Estas operaciones tomaban mucho tiempo en ser efectuadas, y algunas veces la operaci\'on terminaba de manera inesperada sin dar alg\'un aviso al usuario o simplemente la operaci\'on se quedaba colgada.
+
+Con el surgimiento de los servicios Web, se agiliz\'o de manera muy considerable la ejecuci\'on de estos procesos, adem\'as de que tambi\'en, se daba una notificación si el proceso se realiz\'o de manera correcta, si a\'un estaba en ejecuci\'on o si termin\'o de manera inesperada.
+
+En este art\'iculo se hablar\'a de la necesidad de los Servicio Web, desde su surgimiento, evoluci\'on y los tipos de Servicios Web existentes.
+
+\end{abstract}
+
+
+
+\section{INTRODUCCION}
+Desde la aparición de los computadores y por siguiente de el software, se ha trabajado en diversos métodos para facilitar y mejorar la producción de código ejecutable y la creación de aplicaciones. Como resultado se han ido consiguiendo diferentes técnicas y herramientas como ensambladores, compiladores, herramientas gráficas de desarrollo rápido de aplicaciones, entre otros.
+
+Inicialmente solo se desarrollaban aplicaciones en las cuales se utilizaban para un solo ordenador, no tenia conexion alguna e interaccion con otros.
+
+Con el paso del tiempo, surgieron las primeras paginas web. En su nacimiento las páginas web eran estáticas, sencillas, no habia interaccion con el usuario.
+Se tardaron años en poder enriquecer las paginas con elementos como imágenes, fondos, animaciones.
+
+Hoy en día los contenidos de las páginas web son dinámicos (Cuentan con diferentes tecnologías: scripts, PHP, .NET, Java, Flash, entre otras)
+
+\section{Desarrollo}
+
+\subsection{Aqui va el tema del desarrollo}
+
+Aquiva el desarrollo
+
+\section{Resultado}
+Aqui va el resultado
+
+
+
+
+\section*{Reconocimiento}
+
+El autor le gustaria reconocer el generoso apoyo de la Maestra Lina Lobos por la guia recibida para elaborar este articulo, asi como a la UAG.
+
+
+
+\begin{thebibliography}{00}
+\bibitem{b1} G. Eason, B. Noble, and I. N. Sneddon, ``On certain integrals of Lipschitz-Hankel type involving products of Bessel functions,'' Phil. Trans. Roy. Soc. London, vol. A247, pp. 529--551, April 1955.
+\bibitem{b2} J. Clerk Maxwell, A Treatise on Electricity and Magnetism, 3rd ed., vol. 2. Oxford: Clarendon, 1892, pp.68--73.
+\bibitem{b3} I. S. Jacobs and C. P. Bean, ``Fine particles, thin films and exchange anisotropy,'' in Magnetism, vol. III, G. T. Rado and H. Suhl, Eds. New York: Academic, 1963, pp. 271--350.
+\bibitem{b4} K. Elissa, ``Title of paper if known,'' unpublished.
+\bibitem{b5} R. Nicole, ``Title of paper with only first word capitalized,'' J. Name Stand. Abbrev., in press.
+\bibitem{b6} Y. Yorozu, M. Hirano, K. Oka, and Y. Tagawa, ``Electron spectroscopy studies on magneto-optical media and plastic substrate interface,'' IEEE Transl. J. Magn. Japan, vol. 2, pp. 740--741, August 1987 [Digests 9th Annual Conf. Magnetics Japan, p. 301, 1982].
+\bibitem{b7} M. Young, The Technical Writer's Handbook. Mill Valley, CA: University Science, 1989.
+\end{thebibliography}
+\vspace{12pt}
+
+
+\end{document}
+
+
+https://desarrolloweb.com/articulos/1883.php
+http://blog.metodoconsultores.com/entendiendo-web-services/
+http://www.unilibre.edu.co/revistaavances/avances_10/r10_art7.pdf
+https://www.redalyc.org/html/849/84920454033/
