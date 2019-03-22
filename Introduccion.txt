@@ -72,17 +72,17 @@ Aqui va el resultado
 
 \section*{Reconocimiento}
 
-El autor le gustaria reconocer el generoso apoyo de la Doctora Lina Maria Aguilar Lobo por la guia recibida para elaborar este articulo, asi como tambien a la UAG por darle la oportunidad de estudiar en tan prestigiada institucion.
+El autor le gustar\'ia reconocer, el generoso apoyo de la Doctora Lina Maria Aguilar Lobo, por la gu\'ia recibida para elaborar este art\'iculo, as\'i como tambien a la UAG por darle la oportunidad de estudiar en tan prestigiada instituci\'on.
 
 
 
 \begin{thebibliography}{00}
 \bibitem{b1} Ramiro Moreno Barcia Entendiendo Web Services· 20 Septiembre, 2016.
 \bibitem{b2} Celio Gil Aros, Los Servicios Web Y Características de calidad. 25 Marzo, 2012
-\bibitem{b3} Sandra Milena Caicedo, Integracion de procesos utilizando la arquitectura orientada a servicios, 20 Diciembre 2008.
-\bibitem{b4} Orlando Fabián Brea, Historia de los Servicios Web, 16 de Marzo de 2005
+\bibitem{b3} Sandra Milena Caicedo, Integraci\'on de procesos utilizando la arquitectura orientada a servicios, 20 Diciembre 2008.
+\bibitem{b4} Orlando Fabi\'a Brea, Historia de los Servicios Web, 16 de Marzo de 2005
 \bibitem{b5} Marios Fokaefs, An Empirical Study on Web Service Evolution, 21 Julio 2011
-\bibitem{b6} Shahab Mokarizadeh, Utilizing Web services Networks for Web service Innovation, 21 Abril del 2014
+\bibitem{b6} Shahab Mokarizadeh, Utilizing Web sevices Networks for Web service Innovation, 21 Abril del 2014
 \bibitem{b7} Wei Zuo, The Impact Analysis Model for Web ServiceEvolution, 15 de Septiembre 2015
 \end{thebibliography}
 \vspace{12pt}
