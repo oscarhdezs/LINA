@@ -43,15 +43,24 @@ En este art\'iculo se hablar\'a de la necesidad de los Servicio Web, desde su su
 
 
 \section{INTRODUCCION}
-Desde la aparición de los computadores y por siguiente de el software, se ha trabajado en diversos métodos para facilitar y mejorar la producción de código ejecutable y la creación de aplicaciones. Como resultado se han ido consiguiendo diferentes técnicas y herramientas como ensambladores, compiladores, herramientas gráficas de desarrollo rápido de aplicaciones, entre otros.
+Desde la aparici\'on de los computadores y por siguiente de el software, se ha trabajado en diversos m\'etodos para facilitar, mejorar la producci\'on de c\'odigo ejecutable y la creaci\'on de aplicaciones. Como resultado se han ido consiguiendo diferentes t\'ecnicas y herramientas como ensambladores, compiladores, herramientas gr\'aficas de desarrollo r\'apido de aplicaciones, entre otros.
 
-Inicialmente solo se desarrollaban aplicaciones en las cuales se utilizaban para un solo ordenador, no tenia conexion alguna e interaccion con otros.
+Inicialmente solo se desarrollaban aplicaciones monol\'iticas y monousuario, estas funcionaban bien en un principio, pero debido a la exigencia y necesidades de los usuarios las aplicaciones fueron evolucionando, de igual manera los lenguajes de programaci\'on y las t\'ecnicas utlizadas para desarrollar las aplicaciones.
 
-Con el paso del tiempo, surgieron las primeras paginas web. En su nacimiento las páginas web eran estáticas, sencillas, no habia interaccion con el usuario.
-Se tardaron años en poder enriquecer las paginas con elementos como imágenes, fondos, animaciones.
+Con el paso del tiempo, surgieron las primeras p\'aginas web que al inicio mostraba contenido est\'atico, hoy en d\'ia los contenidos de las p\'aginas web son din\'amicos, as\'i nacio la arquitectura cliente-servidor, que gracias a este modelo de desarrollo, la aplicaci\'on se divide en dos: Una parte que interacciona con el usuario y otra parte destinada al procesamiento de la informaci\'on.  En este acercamiento se consigui\'o que cada una de las partes que constitu\'ian la aplicaci\'on pudiera residir en computadoras distintas. 
 
-Hoy en día los contenidos de las páginas web son dinámicos (Cuentan con diferentes tecnologías: scripts, PHP, .NET, Java, Flash, entre otras)
+Esto fue un gran avance, ya que solo se dedica una computadora para que procese la informaci\'on y otra para que el usuario interact\'ue, pero tambien trajo un problema de compatibilidad, ya que tanto el cliente como el servidor deben de tener la misma plataforma y tambien la aplicaci\'on debe de ser desarrollada en el mismo lenguage de programaci\'on.
 
+Aqu\'i fue cuando suergieron los servicios web, ante una necesidad de estandarizar la comunicaci\'on entre distintas plataformas y lenguajes de programaci\'on. 
+
+Anteriormente se hab\'ian realizado intentos de crear est\'andares, pero fracasaron o no tuvieron el suficiente \'exito, algunos de ellos son DCOM y CORBA, por ser dependientes de la implementaci\'on del vendedor DCOM - Microsoft, y CORBA.
+
+Los servicios web, permiten a distintas aplicaciones de software desarrolladas en lenguajes de programaci\'on diferentes, y ejecutadas sobre cualquier plataforma, poder utilizar los servicios web para intercambiar datos en redes, como Internet; esta interoperabilidad entre aplicaciones se consigue gracias a la utilizaci\'on de est\'andares abiertos[].
+
+ Los servicios web, son un paso adelante en la computaci\'on, ya que de esta forma un ordenador ya no se considerara como un n\'ucleo de c\'omputo, sino como un repositorio de servicios de un gran n\'umero de aplicaciones distribuidas en diferentes lugares geogr\'aficos.  
+ 
+ En este art\'iculo se mostrara como fueron los primeros servicios web, sus componentes y los diferentes tipos de servicios web que existen.
+ 
 \section{Desarrollo}
 
 \subsection{Aqui va el tema del desarrollo}
@@ -61,31 +70,22 @@ Aquiva el desarrollo
 \section{Resultado}
 Aqui va el resultado
 
-
-
-
 \section*{Reconocimiento}
 
-El autor le gustaria reconocer el generoso apoyo de la Maestra Lina Lobos por la guia recibida para elaborar este articulo, asi como a la UAG.
+El autor le gustaria reconocer el generoso apoyo de la Doctora Lina Maria Aguilar Lobo por la guia recibida para elaborar este articulo, asi como tambien a la UAG por darle la oportunidad de estudiar en tan prestigiada institucion.
 
 
 
 \begin{thebibliography}{00}
-\bibitem{b1} G. Eason, B. Noble, and I. N. Sneddon, ``On certain integrals of Lipschitz-Hankel type involving products of Bessel functions,'' Phil. Trans. Roy. Soc. London, vol. A247, pp. 529--551, April 1955.
-\bibitem{b2} J. Clerk Maxwell, A Treatise on Electricity and Magnetism, 3rd ed., vol. 2. Oxford: Clarendon, 1892, pp.68--73.
-\bibitem{b3} I. S. Jacobs and C. P. Bean, ``Fine particles, thin films and exchange anisotropy,'' in Magnetism, vol. III, G. T. Rado and H. Suhl, Eds. New York: Academic, 1963, pp. 271--350.
-\bibitem{b4} K. Elissa, ``Title of paper if known,'' unpublished.
-\bibitem{b5} R. Nicole, ``Title of paper with only first word capitalized,'' J. Name Stand. Abbrev., in press.
-\bibitem{b6} Y. Yorozu, M. Hirano, K. Oka, and Y. Tagawa, ``Electron spectroscopy studies on magneto-optical media and plastic substrate interface,'' IEEE Transl. J. Magn. Japan, vol. 2, pp. 740--741, August 1987 [Digests 9th Annual Conf. Magnetics Japan, p. 301, 1982].
-\bibitem{b7} M. Young, The Technical Writer's Handbook. Mill Valley, CA: University Science, 1989.
+\bibitem{b1} Ramiro Moreno Barcia Entendiendo Web Services· 20 Septiembre, 2016.
+\bibitem{b2} Celio Gil Aros, Los Servicios Web Y Características de calidad. 25 Marzo, 2012
+\bibitem{b3} Sandra Milena Caicedo, Integracion de procesos utilizando la arquitectura orientada a servicios, 20 Diciembre 2008.
+\bibitem{b4} Orlando Fabián Brea, Historia de los Servicios Web, 16 de Marzo de 2005
+\bibitem{b5} Marios Fokaefs, An Empirical Study on Web Service Evolution, 21 Julio 2011
+\bibitem{b6} Shahab Mokarizadeh, Utilizing Web services Networks for Web service Innovation, 21 Abril del 2014
+\bibitem{b7} Wei Zuo, The Impact Analysis Model for Web ServiceEvolution, 15 de Septiembre 2015
 \end{thebibliography}
 \vspace{12pt}
 
 
 \end{document}
-
-
-https://desarrolloweb.com/articulos/1883.php
-http://blog.metodoconsultores.com/entendiendo-web-services/
-http://www.unilibre.edu.co/revistaavances/avances_10/r10_art7.pdf
-https://www.redalyc.org/html/849/84920454033/
